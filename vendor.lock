@@ -1,0 +1,12 @@
+[
+    {
+        "name": "gettext",
+        "path": "./vendor/gettext",
+        "hash": "sha256-Uy+G3bG0SD7NZR4uRLf5NWhEhtOSY0ndQMr1WVXGnJk="
+    },
+    {
+        "name": "vim-nix",
+        "path": "./vendor/vim",
+        "hash": "sha256-/VqmiNdtTY2K9PbZlmLoVJml77/wnJJ9szg3NbHjSLw="
+    }
+]
